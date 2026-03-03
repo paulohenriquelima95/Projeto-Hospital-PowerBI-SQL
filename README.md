@@ -80,6 +80,7 @@ Processamento pesado no banco garante performance e escalabilidade.
 /dashboard  → healthcare_analytics.pbix
 /dataset    → hospital_internacoes.csv (111k registros)
 /assets     → Screenshots, banner e documentação
+
 🚀 Como Executar
 1️⃣ Clone o repositório
 git clone https://github.com/paulohenriquelima95/Healthcare-Analytics-PowerBI-SQL.git
@@ -113,5 +114,5 @@ Atualize a conexão para seu PostgreSQL local
 
 **Paulo Henrique Lima**  
 *Analista de Dados | SQL | Power BI | Python*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohenriquelima95/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohenriquelima95/)  
+✉️ Email: **paulohenrique-95@hotmail.com**
