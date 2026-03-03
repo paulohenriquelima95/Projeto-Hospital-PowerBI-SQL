@@ -108,11 +108,7 @@ Atualize a conexão para seu PostgreSQL local
 ✅ Storytelling Executivo
 
 ✅ Performance Tuning (Banco + BI)
-
-
 ## 👨‍💻 Autor
 
-**Paulo Henrique Lima**  
-*Analista de Dados | SQL | Power BI | Python*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohenriquelima95/)  
-✉️ Email: **paulohenrique-95@hotmail.com**
+Paulo Henrique Lima  
+Analista de Dados | SQL | Power BI | Python
